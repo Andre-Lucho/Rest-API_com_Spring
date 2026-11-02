@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: start
+  devtools:
+    livereload:
+      enabled: true
+      port: 35730
